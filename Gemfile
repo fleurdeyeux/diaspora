@@ -75,7 +75,7 @@ gem 'strong_parameters'
 gem 'omniauth',          '1.1.4'
 gem 'omniauth-facebook', '1.5.1'
 gem 'omniauth-tumblr',   '1.1'
-gem 'omniauth-twitter',  '1.0.0'
+gem 'omniauth-twitter',  '1.0.1'
 gem 'twitter',           '4.8.1'
 gem 'omniauth-wordpress','0.2.0'
 
